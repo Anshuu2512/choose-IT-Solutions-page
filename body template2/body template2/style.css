@@ -1,0 +1,595 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    background-color: rgb(200, 225, 225);
+    height: 500px;
+    width: 100%;
+}
+.sub{
+    margin-left: 150px;
+}
+.main1 p{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.main1 h1{
+    padding-bottom: 50px;
+    /* margin-right: 100px; */
+    /* border: 2px solid red; */
+}
+.main3:hover{
+    background-color: blueviolet;
+   
+}
+.main3{
+ padding: 10px 10px 10px 10px;
+ font-size: 15px;
+ background-color: rgb(220, 238, 232);
+}
+.sub{
+    float: left;
+}
+.main5{
+    padding-top: 100px;
+}
+.main4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mini p{
+    margin-left: 700px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+.mini h1{
+    margin-left: 30px;
+    /* border: 2px solid red; */
+}
+.mini1{
+    border: 2px  solid red;
+    width: 20%;
+    height: 100px;
+    float: left;
+    background-color: white;
+}
+.mini1 img{
+    float: left;
+}
+.mini1{
+    margin-left: 20px;
+}
+.mini3 p,h3{
+    margin-left: 85px;
+    margin-top: 10px;
+}
+.mini2{
+    margin-left: 500px;
+    border: 2px solid red;
+    height: 100px;
+    width: 20%;
+    background-color: white;
+}
+.mini2 img{
+     float: left;
+}
+.mini4 p,h3{
+    margin-left: 85px;
+    margin-top: 10px;
+}
+.mini5{
+    /* border: 2px solid red; */
+    height: 100px;
+    width: 20%;
+}
+.section{
+    height: 350px;
+    width: 100%;
+    background-color:rgb(238, 223, 226) ;
+}
+.mini5{
+    float: left;
+}
+.mini7{
+    border: 2px solid red;
+    height: 100px;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 1000px;
+  margin-top: -100px;
+  background-color: white;
+}
+.mini5{
+    /* border: 2px solid red; */
+    width: 80px;
+}
+.anu{
+    margin-top: 25px;
+}
+.mini h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mini10{
+   /* border: 2px solid red ; */
+   margin-top: 30px;
+   margin-left: 750px;
+}
+.mini10 button{
+    padding: 10px 10px 10px 10px;
+}
+.mini10 :hover{
+    background-color: chartreuse;
+}
+.part1 p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.part1 h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.part1 p{
+    margin-top: 30px;
+}
+.part1{
+    float: left;
+}
+.part2 img{
+    margin-left: 200px;
+  margin-top: 50px;
+}
+.section3{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.part1{
+    margin-left: 90px;
+}
+.part4{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(237, 227, 229);
+}
+.section4 p,h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.anu1{
+    margin-left: 80px;
+    /* border: 2px solid red; */
+    
+}
+.anu5 img{
+    border-radius:500px;
+}
+.anu1 p{
+    padding-top: 20px;
+}
+.space{
+        margin-top: 20px;
+        margin-left: 20px;
+}
+.anu5 button{
+    height: 25px;
+}
+.anu2{
+    margin-left: 50px;
+    border: 2px solid red;
+    padding: 5px 5px 5px 5px;
+}
+.space button:hover{
+    background-color: rgb(133, 123, 209);
+    color: white;
+}
+.space button{
+    height: 30px;
+    background-color: rgb(220, 121, 215);
+    /* border: 2px solid red; */
+    width: 60%;
+}
+.anu2 a, button{
+    padding: 5px 5px 5px 5px;
+}
+.anu1 img{
+    /* border: 2px solid red; */
+    border-radius: 100px;
+}
+.anu2 img{
+    display: inline;
+    /* border: 2px solid red; */
+    border-radius: 100px;
+}
+.anu1 {
+    /* border: 2px solid red; */
+    width: 50%;
+}
+.anu2{
+    width: 11%;
+}
+.k{
+    margin-left: 30px;
+}
+.k h4{
+    margin-bottom: 20px;
+}
+.k p{
+    margin-bottom: 20px;
+}
+.anu1{
+    float: left;
+}
+ .k{
+    float: left;
+}
+.h{
+    float: left;
+     /* border: 2px solid red;  */
+     width: 20%; 
+     margin-left: 40px;
+
+ }
+.k{
+    margin-left: 40px;
+     /* border: 2px solid red;  */
+     width: 25%; 
+   
+}
+.anu2{
+    
+     border: 2px solid transparent; 
+     width: 45%; 
+} 
+.space2 button{
+    margin-left: 20px;
+    background-color: rgb(220, 121, 215);
+}
+.space2 button:hover{
+    background-color: rgb(133, 123, 209);
+    color: white;
+}
+.l{
+    /* border: 2px solid red; */
+    width: 60%;
+    height:250px;
+    margin-left: 190px;
+}
+.anu3 img{
+    border-radius: 100px;
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    
+}
+.anu3 p{
+    margin-top: 20px;
+    margin-bottom: 25px;
+   /* border: 2px solid red; */
+   width: 30%;
+   margin-left: 570px;
+}
+.anu3 button{
+    
+    background-color: rgb(220, 121, 215);
+    margin-left: 30px;
+    /* border: 2px solid red; */
+}
+.anu3 button:hover{
+    background-color: rgb(133, 123, 209);
+    color: white;
+}
+.anu3{
+    /* border: 2px solid red;   */
+}
+.anu3 h4{
+  /* border: 2px solid red; */
+  width: 30%;
+  margin-left: 560px;
+}
+.anu4{
+    /* border: 2px solid red;    */
+    width: 15%;
+    height: 280px;
+}
+.anu4 img{
+    border-radius: 200px;
+}
+.anu4 {
+    margin-left: 1150px;
+}
+.anu4{
+    margin-top: -270px;
+}
+.anu4 p{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.anu4 button{
+    margin-top: 25px;
+}
+.anu4 img{
+    margin-right: 20px;
+}
+.anu4 button{
+    background-color: rgb(220, 121, 215);
+    margin-left: 25px;
+}
+.anu4 button:hover{
+    background-color: rgb(133, 123, 209);
+    color: white;
+}
+.photos {
+    /* border: 2px solid red; */
+    margin-top: 30px;
+}
+.part5{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(225, 246, 246);
+    margin-top: -20px;
+}
+.part5 h3{
+  padding-right: 50px;
+  /* border: 2px solid red; */
+  display: inline;
+}
+.part5 h1{
+    text-align:left;
+    margin-left: 80px;
+}
+.part5 span{
+    padding-top: 10px;
+    margin-left: 80px;
+    line-height: 40px;
+}
+.five1  {
+    padding-top: 60px;
+    margin-left: 100px;
+}
+.five1{
+    float: left;
+}
+.five2 img{
+    margin-left: 10px;
+    margin-top: 90px;
+}
+.five2{
+    margin-left: 100px;
+    /* border: 2px solid red; */
+    display: inline;
+}
+.five3{
+    margin-top: 70px;
+    margin-left: 750px;
+}
+.five3 button:hover{
+    background-color: rgb(188, 58, 58);
+    color: white;
+}
+.part6{
+    height: 370px;
+    width: 100%;
+    background-color:rgb(232, 222, 211) ;
+    text-align: center;
+    padding-top: 20px;
+}
+.part6 i{
+    font-size: 30px;
+}
+.seven1{
+    float: left;
+}
+.seven2 button{
+    margin-left: 260px;
+    border-radius: 20px;
+    /* margin-bottom: 100px; */
+    /* margin-top: -100px; */
+    border: 2px solid red;
+   
+}
+.seven2 img{
+    border: 2px solid rgb(14, 14, 14);
+    height: 90px;
+    width: 50%;
+    margin-left: 100px;
+    margin-left: 80px;
+
+}
+.part7{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+.seven1{
+    margin-left: 100px;
+    /* border: 2px solid red; */
+}
+.seven2 a{
+    /* margin-bottom: 300px; */
+    border: 2px solid red;
+   margin-left: 50px;
+    
+}
+.seven2{
+    float: left;
+}
+.seven3 button{
+    margin-left:130px;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+.seven3 button:hover{
+    background-color: blueviolet;
+}
+.part8{
+    height: 420px;
+    width: 100%;
+    background-color: black;
+}
+.eight2 i{
+color: yellow;
+font-size:30px;
+}
+.eight2 {
+    color: white;
+}
+.eight2 h1{
+    text-align: left;
+}
+.eight1{
+    float: left;
+}
+.eight2{
+    /* border: 2px solid red; */
+    width: 50%;
+    margin-left: 800px;
+    /* margin-top: 20px; */
+    padding-top:4%;
+}
+.eight1{
+    padding-top: 4%;
+    margin-left: 60px;
+}
+.nine1{
+    text-align: center;
+}
+.nine{
+    background-color: rgb(190, 221, 228);
+    height: 425px;
+    width: 100%;
+}
+.nine2{
+    margin-left: 50px;
+}
+.nine2 button{
+    margin-left: 50px;
+    background-color: rgb(216, 109, 63);
+}
+.nine2 p{
+    margin-left: 30px;
+}
+.nine2 button:hover{
+    background-color: rgb(227, 68, 201);
+    padding: 8px 8px;
+}
+.nine2 {
+    float: left;
+}
+.nine3{
+    /* border: 2px solid red; */
+  width: 30%;
+  margin-left: 250px;
+  float: left;
+}
+.nine3 img{
+    width: 70%;
+    height: 150px;
+}
+.nine3 button{
+    margin-left: 70px;
+    background-color: rgb(216, 109, 63);
+}
+.nine4 button{
+    margin-left: 30px;
+}
+.nine4 p{
+/* border: 2px solid red;  */
+width: 20%;
+ margin-left:1070px; 
+
+}
+.nine3 p{
+margin-left: 55px;
+/* border: 2px solid red; */
+}
+.nine4 button{
+    margin-left: 80px;
+    background-color: rgb(216, 109, 63);
+}
+.nine4 button:hover{
+    background-color: rgb(227, 68, 201);
+    padding: 8px 8px;
+}
+.nine3 button:hover{
+    background-color: rgb(227, 68, 201);
+    padding: 8px 8px;
+}
+.nine1 p{
+    padding-top: 20px;
+}
+.nine5{
+    margin-top: 30px;
+    /* border: 2px solid red; */
+}
+.footer{
+    /* border: 2px solid red; */
+    height: 230px;
+    width: 100%;
+    background-color: rgb(4, 4, 22);
+}
+.footer2{
+    height: 29px;
+
+}
+
+.whap{
+    background-color: green;
+    padding: 4px ;
+    color: white;
+}
+.utube{
+    background-color: red;
+    color: white;
+    padding: 4px;
+    border-radius: 3px;
+}
+.insta{
+background-image: linear-gradient(45deg,blue,yellow,rgb(134, 20, 105));
+    color: white;
+    padding: 4px;
+    border-radius: 3px;
+}
+.fb{
+    background-color: rgb(8, 119, 253);
+    color: white;
+    padding: 4px;
+    border-radius: 3px;
+}
+.lin{
+  background-color: blue;
+    color: white;
+    padding: 4px;
+}
+.twit{
+    color: white;
+    background-color: rgb(103, 200, 238);
+    padding: 4px;
+}
+.footer1{
+    float: left;
+    margin-left:200px;
+    line-height: 40px;
+}
+.footer{
+    color: white;
+
+}
+.click{
+    background-color: rgb(241, 81, 24);
+    color: white
+}
+.final{
+    /* border: 2px solid red; */
+    background-color: rgb(4, 4, 22);
+    height: 30px;
+    
+}
+.final p{
+    color: white;
+    margin-left: 700px;
+}
+.final hr{
+  width:100%
+}
+.footer1 p{
+    color: rgb(98, 98, 98);
+}
